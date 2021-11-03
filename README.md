@@ -6,5 +6,5 @@ This project is inspired by [the Menu Project](https://www.vanillajavascriptproj
 
 This is not a finished project. Next, I would like to create a modern looking app where users have other filtering options for their search, could access google maps for easier navigation and directions and share information on local businesses in need of help by submitting a new business for review. 
 
-
+![Screen Shot 2021-11-01 at 22 31 52](https://user-images.githubusercontent.com/77698908/140059731-7a63a250-d558-4bdd-aaaa-97d70266d8e2.png)
 
